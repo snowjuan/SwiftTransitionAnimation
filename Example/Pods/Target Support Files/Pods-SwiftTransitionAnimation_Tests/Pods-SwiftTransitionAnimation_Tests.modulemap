@@ -1,0 +1,6 @@
+framework module Pods_SwiftTransitionAnimation_Tests {
+  umbrella header "Pods-SwiftTransitionAnimation_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SwiftTransitionAnimation (0.1.0)
+
+DEPENDENCIES:
+  - SwiftTransitionAnimation (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftTransitionAnimation:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SwiftTransitionAnimation: 9f5fd7c1faad910df1ad7dc07a659aadcdb1a538
+
+PODFILE CHECKSUM: 481406697ffa728837f6b403ff898283e4524120
+
+COCOAPODS: 1.1.1
