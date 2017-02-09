@@ -6,7 +6,7 @@
 //  Copyright © 2016 TransitionTreasury. All rights reserved.
 //
 
-import TransitionTreasury
+
 /// Page Motion
 public class PageTransitionAnimation: NSObject, TRViewControllerAnimatedTransitioning, TransitionInteractiveable {
     

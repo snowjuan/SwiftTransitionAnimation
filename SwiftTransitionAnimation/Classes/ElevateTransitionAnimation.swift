@@ -6,7 +6,7 @@
 //  Copyright © 2016 TransitionTreasury. All rights reserved.
 //
 
-import TransitionTreasury
+
 /// Like Elevate
 public class ElevateTransitionAnimation: NSObject, TRViewControllerAnimatedTransitioning {
     

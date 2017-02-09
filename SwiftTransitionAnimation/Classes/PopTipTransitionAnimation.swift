@@ -6,7 +6,7 @@
 //  Copyright © 2016 TransitionTreasury. All rights reserved.
 //
 
-import TransitionTreasury
+
 /// Pop Your Tip ViewController.
 public class PopTipTransitionAnimation: NSObject, TRViewControllerAnimatedTransitioning {
     

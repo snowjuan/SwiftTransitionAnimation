@@ -6,7 +6,7 @@
 //  Copyright © 2016 TransitionTreasury. All rights reserved.
 //
 
-import TransitionTreasury
+
 
 public class BlixtTransitionAnimation: NSObject, TRViewControllerAnimatedTransitioning, TransitionInteractiveable {
     
