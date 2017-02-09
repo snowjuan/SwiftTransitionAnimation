@@ -6,7 +6,7 @@
 //  Copyright © 2016年 TransitionTreasury. All rights reserved.
 //
 
-import TransitionTreasury
+
 /**
  ViewController Push Methods
  
